@@ -1,0 +1,181 @@
+OrderID,OrderDate,CustomerID,City,Region,Product,Category,Quantity,UnitPrice,DiscountPct,SalesAmount,OrderStatus
+ORD-0004,2025-01-04,CUST-022,Chennai,South,Bluetooth Speaker,Electronics,1,49.99,0,49.99,Cancelled
+ORD-0176,2025-01-04,CUST-008,Bengaluru,South,Laptop Stand,Accessories,2,29.99,10,53.98,Delivered
+ORD-0177,2025-01-04,CUST-033,Patna,East,Bluetooth Speaker,Electronics,1,49.99,0,49.99,Delivered
+ORD-0137,2025-01-12,CUST-004,Bhubaneswar,East,Wireless Mouse,Accessories,2,18.99,5,36.08,Delivered
+ORD-0053,2025-01-13,CUST-023,Bengaluru,South,Webcam,Electronics,1,79.99,0,79.99,Delivered
+ORD-0003,2025-01-14,CUST-018,Chennai,South,Notebook Set,Stationery,2,12.5,0,25.0,Delivered
+ORD-0076,2025-01-14,CUST-056,Patna,East,Office Chair,Home Office,2,189.0,0,378.0,Delivered
+ORD-0089,2025-01-15,CUST-018,Bhubaneswar,East,USB-C Hub,Accessories,1,39.5,0,39.5,Delivered
+ORD-0131,2025-01-15,CUST-034,Jaipur,North,Wireless Mouse,Accessories,1,18.99,0,18.99,Delivered
+ORD-0026,2025-01-17,CUST-009,Mumbai,West,Desk Lamp,Home Office,1,24.99,5,23.74,Delivered
+ORD-0150,2025-01-17,CUST-044,Mumbai,West,Headphones,Electronics,1,89.0,0,89.0,Delivered
+ORD-0140,2025-01-18,CUST-012,Ahmedabad,West,USB-C Hub,Accessories,1,39.5,0,39.5,Delivered
+ORD-0048,2025-01-22,CUST-007,Pune,West,Wireless Mouse,Accessories,3,18.99,0,56.97,Delivered
+ORD-0158,2025-01-23,CUST-026,Pune,West,Notebook Set,Stationery,4,12.5,0,50.0,Delivered
+ORD-0147,2025-01-24,CUST-025,Jaipur,North,Headphones,Electronics,1,89.0,0,89.0,Delivered
+ORD-0015,2025-01-25,CUST-025,Delhi,North,Notebook Set,Stationery,1,12.5,5,11.88,Delivered
+ORD-0045,2025-01-27,CUST-009,Chandigarh,North,Bluetooth Speaker,Electronics,2,49.99,0,99.98,Delivered
+ORD-0099,2025-01-27,CUST-041,Pune,West,Mechanical Keyboard,Accessories,2,64.99,0,129.98,Delivered
+ORD-0036,2025-01-30,CUST-008,Delhi,North,Mechanical Keyboard,Accessories,2,64.99,5,123.48,Delivered
+ORD-0035,2025-02-01,CUST-011,Mumbai,West,Wireless Mouse,Accessories,2,18.99,5,36.08,Delivered
+ORD-0072,2025-02-01,CUST-055,Bengaluru,South,Bluetooth Speaker,Electronics,3,49.99,5,142.47,Delivered
+ORD-0157,2025-02-02,CUST-040,Bhubaneswar,East,Webcam,Electronics,1,79.99,0,79.99,Delivered
+ORD-0022,2025-02-05,CUST-056,Hyderabad,South,Notebook Set,Stationery,1,12.5,5,11.88,Delivered
+ORD-0041,2025-02-05,CUST-040,Bengaluru,South,27-inch Monitor,Electronics,1,219.0,10,197.1,Delivered
+ORD-0064,2025-02-07,CUST-026,Bhubaneswar,East,Notebook Set,Stationery,2,12.5,5,23.75,Delivered
+ORD-0047,2025-02-08,CUST-009,Chennai,South,Wireless Mouse,Accessories,3,18.99,5,54.12,Delivered
+ORD-0104,2025-02-08,CUST-015,Hyderabad,South,Bluetooth Speaker,Electronics,1,49.99,5,47.49,Delivered
+ORD-0179,2025-02-09,CUST-008,Ahmedabad,West,Bluetooth Speaker,Electronics,2,49.99,5,94.98,Delivered
+ORD-0088,2025-02-14,CUST-022,Pune,West,Laptop Stand,Accessories,2,29.99,5,56.98,Delivered
+ORD-0130,2025-02-16,CUST-020,Kolkata,East,Notebook Set,Stationery,2,12.5,0,25.0,Delivered
+ORD-0029,2025-02-20,CUST-013,Jaipur,North,Water Bottle,Lifestyle,1,16.99,10,15.29,Delivered
+ORD-0103,2025-02-20,CUST-036,Chennai,South,Laptop Stand,Accessories,1,29.99,0,29.99,Delivered
+ORD-0005,2025-02-22,CUST-003,Jaipur,North,Mechanical Keyboard,Accessories,1,64.99,0,64.99,Delivered
+ORD-0145,2025-02-25,CUST-040,Bengaluru,South,Wireless Mouse,Accessories,2,18.99,15,32.28,Delivered
+ORD-0017,2025-02-28,CUST-047,Ahmedabad,West,Webcam,Electronics,1,79.99,0,79.99,Delivered
+ORD-0101,2025-03-02,CUST-029,Patna,East,Office Chair,Home Office,2,189.0,0,378.0,Delivered
+ORD-0119,2025-03-02,CUST-031,Bengaluru,South,Water Bottle,Lifestyle,1,16.99,5,16.14,Delivered
+ORD-0067,2025-03-04,CUST-049,Kolkata,East,Headphones,Electronics,2,89.0,15,151.3,Delivered
+ORD-0126,2025-03-06,CUST-010,Mumbai,West,Headphones,Electronics,1,89.0,10,80.1,Delivered
+ORD-0155,2025-03-08,CUST-051,Mumbai,West,Mechanical Keyboard,Accessories,2,64.99,0,129.98,Delivered
+ORD-0165,2025-03-08,CUST-056,Chandigarh,North,Desk Lamp,Home Office,2,24.99,5,47.48,Delivered
+ORD-0121,2025-03-11,CUST-001,Jaipur,North,Bluetooth Speaker,Electronics,1,49.99,10,44.99,Delivered
+ORD-0107,2025-03-14,CUST-059,Delhi,North,USB-C Hub,Accessories,2,39.5,5,75.05,Delivered
+ORD-0171,2025-03-14,CUST-011,Delhi,North,Water Bottle,Lifestyle,1,16.99,0,16.99,Delivered
+ORD-0160,2025-03-17,CUST-025,Delhi,North,27-inch Monitor,Electronics,2,219.0,5,416.1,Delivered
+ORD-0149,2025-03-21,CUST-018,Patna,East,Mechanical Keyboard,Accessories,3,64.99,5,185.22,Returned
+ORD-0173,2025-03-21,CUST-032,Chennai,South,Wireless Mouse,Accessories,2,18.99,0,37.98,Delivered
+ORD-0082,2025-03-25,CUST-025,Mumbai,West,Office Chair,Home Office,1,189.0,0,189.0,Delivered
+ORD-0062,2025-03-28,CUST-049,Jaipur,North,Desk Lamp,Home Office,2,24.99,5,47.48,Delivered
+ORD-0050,2025-04-01,CUST-052,Kolkata,East,USB-C Hub,Accessories,2,39.5,0,79.0,Returned
+ORD-0055,2025-04-02,CUST-028,Mumbai,West,Mechanical Keyboard,Accessories,2,64.99,0,129.98,Delivered
+ORD-0124,2025-04-07,CUST-048,Chennai,South,Bluetooth Speaker,Electronics,1,49.99,10,44.99,Delivered
+ORD-0019,2025-04-12,CUST-001,Bengaluru,South,USB-C Hub,Accessories,1,39.5,10,35.55,Delivered
+ORD-0080,2025-04-13,CUST-014,Chandigarh,North,USB-C Hub,Accessories,1,39.5,0,39.5,Delivered
+ORD-0141,2025-04-13,CUST-017,Chennai,South,Webcam,Electronics,1,79.99,10,71.99,Delivered
+ORD-0009,2025-04-18,CUST-047,Ahmedabad,West,Notebook Set,Stationery,2,12.5,5,23.75,Delivered
+ORD-0012,2025-04-19,CUST-010,Mumbai,West,Notebook Set,Stationery,1,12.5,10,11.25,Delivered
+ORD-0154,2025-04-21,CUST-010,Bengaluru,South,USB-C Hub,Accessories,2,39.5,5,75.05,Delivered
+ORD-0146,2025-04-24,CUST-009,Chandigarh,North,Headphones,Electronics,3,89.0,0,267.0,Delivered
+ORD-0143,2025-04-26,CUST-008,Patna,East,Webcam,Electronics,1,79.99,0,79.99,Delivered
+ORD-0008,2025-04-30,CUST-023,Jaipur,North,27-inch Monitor,Electronics,1,219.0,10,197.1,Delivered
+ORD-0063,2025-05-01,CUST-040,Mumbai,West,Laptop Stand,Accessories,1,29.99,0,29.99,Cancelled
+ORD-0070,2025-05-01,CUST-025,Pune,West,Webcam,Electronics,3,79.99,0,239.97,Delivered
+ORD-0032,2025-05-02,CUST-011,Bengaluru,South,Headphones,Electronics,1,89.0,10,80.1,Returned
+ORD-0156,2025-05-02,CUST-008,Mumbai,West,USB-C Hub,Accessories,1,39.5,0,39.5,Delivered
+ORD-0065,2025-05-05,CUST-007,Chennai,South,Water Bottle,Lifestyle,1,16.99,10,15.29,Delivered
+ORD-0010,2025-05-06,CUST-015,Bengaluru,South,Bluetooth Speaker,Electronics,1,49.99,10,44.99,Delivered
+ORD-0069,2025-05-07,CUST-019,Ahmedabad,West,Headphones,Electronics,2,89.0,0,178.0,Delivered
+ORD-0094,2025-05-09,CUST-049,Hyderabad,South,Water Bottle,Lifestyle,1,16.99,0,16.99,Delivered
+ORD-0110,2025-05-09,CUST-002,Delhi,North,Laptop Stand,Accessories,4,29.99,10,107.96,Delivered
+ORD-0139,2025-05-09,CUST-029,Chennai,South,Mechanical Keyboard,Accessories,3,64.99,5,185.22,Delivered
+ORD-0018,2025-05-15,CUST-039,Chennai,South,Mechanical Keyboard,Accessories,3,64.99,0,194.97,Delivered
+ORD-0013,2025-05-16,CUST-058,Hyderabad,South,Water Bottle,Lifestyle,2,16.99,0,33.98,Delivered
+ORD-0043,2025-05-16,CUST-046,Delhi,North,Water Bottle,Lifestyle,2,16.99,0,33.98,Delivered
+ORD-0112,2025-05-23,CUST-023,Chennai,South,Bluetooth Speaker,Electronics,2,49.99,5,94.98,Delivered
+ORD-0122,2025-05-25,CUST-035,Ahmedabad,West,Office Chair,Home Office,4,189.0,5,718.2,Delivered
+ORD-0175,2025-05-26,CUST-004,Patna,East,Notebook Set,Stationery,1,12.5,0,12.5,Cancelled
+ORD-0105,2025-05-28,CUST-051,Ahmedabad,West,Headphones,Electronics,1,89.0,0,89.0,Delivered
+ORD-0108,2025-05-28,CUST-033,Kolkata,East,Headphones,Electronics,2,89.0,5,169.1,Returned
+ORD-0114,2025-05-28,CUST-050,Patna,East,Wireless Mouse,Accessories,1,18.99,0,18.99,Delivered
+ORD-0092,2025-05-31,CUST-036,Bengaluru,South,Water Bottle,Lifestyle,1,16.99,5,16.14,Delivered
+ORD-0059,2025-06-01,CUST-012,Hyderabad,South,Bluetooth Speaker,Electronics,2,49.99,0,99.98,Delivered
+ORD-0135,2025-06-03,CUST-055,Patna,East,27-inch Monitor,Electronics,1,219.0,0,219.0,Cancelled
+ORD-0084,2025-06-04,CUST-033,Chandigarh,North,Wireless Mouse,Accessories,1,18.99,0,18.99,Delivered
+ORD-0021,2025-06-07,CUST-032,Hyderabad,South,Laptop Stand,Accessories,3,29.99,15,76.47,Delivered
+ORD-0170,2025-06-08,CUST-005,Pune,West,Wireless Mouse,Accessories,1,18.99,0,18.99,Delivered
+ORD-0118,2025-06-09,CUST-030,Chandigarh,North,Bluetooth Speaker,Electronics,1,49.99,15,42.49,Returned
+ORD-0153,2025-06-20,CUST-038,Hyderabad,South,Office Chair,Home Office,1,189.0,10,170.1,Delivered
+ORD-0044,2025-06-25,CUST-059,Chennai,South,Notebook Set,Stationery,3,12.5,5,35.62,Delivered
+ORD-0079,2025-06-29,CUST-016,Chennai,South,Mechanical Keyboard,Accessories,2,64.99,5,123.48,Delivered
+ORD-0028,2025-07-01,CUST-042,Bhubaneswar,East,Headphones,Electronics,3,89.0,0,267.0,Delivered
+ORD-0049,2025-07-01,CUST-052,Patna,East,Water Bottle,Lifestyle,1,16.99,10,15.29,Delivered
+ORD-0007,2025-07-05,CUST-006,Chennai,South,Mechanical Keyboard,Accessories,1,64.99,0,64.99,Delivered
+ORD-0151,2025-07-08,CUST-053,Mumbai,West,Bluetooth Speaker,Electronics,1,49.99,15,42.49,Returned
+ORD-0168,2025-07-08,CUST-050,Jaipur,North,Office Chair,Home Office,1,189.0,0,189.0,Delivered
+ORD-0172,2025-07-09,CUST-004,Ahmedabad,West,Webcam,Electronics,2,79.99,5,151.98,Delivered
+ORD-0033,2025-07-14,CUST-045,Jaipur,North,27-inch Monitor,Electronics,3,219.0,10,591.3,Delivered
+ORD-0078,2025-07-14,CUST-004,Pune,West,27-inch Monitor,Electronics,3,219.0,0,657.0,Delivered
+ORD-0016,2025-07-15,CUST-047,Patna,East,27-inch Monitor,Electronics,4,219.0,10,788.4,Delivered
+ORD-0083,2025-07-23,CUST-050,Hyderabad,South,Office Chair,Home Office,2,189.0,5,359.1,Delivered
+ORD-0115,2025-07-26,CUST-040,Chandigarh,North,Desk Lamp,Home Office,1,24.99,0,24.99,Delivered
+ORD-0180,2025-07-27,CUST-059,Jaipur,North,USB-C Hub,Accessories,2,39.5,5,75.05,Delivered
+ORD-0113,2025-07-29,CUST-032,Pune,West,Notebook Set,Stationery,1,12.5,0,12.5,Delivered
+ORD-0127,2025-07-29,CUST-026,Hyderabad,South,Headphones,Electronics,2,89.0,0,178.0,Delivered
+ORD-0132,2025-07-30,CUST-016,Hyderabad,South,USB-C Hub,Accessories,1,39.5,10,35.55,Delivered
+ORD-0163,2025-08-01,CUST-044,Jaipur,North,Bluetooth Speaker,Electronics,1,49.99,0,49.99,Cancelled
+ORD-0074,2025-08-03,CUST-043,Bengaluru,South,Laptop Stand,Accessories,1,29.99,5,28.49,Delivered
+ORD-0066,2025-08-06,CUST-055,Hyderabad,South,Water Bottle,Lifestyle,1,16.99,0,16.99,Delivered
+ORD-0159,2025-08-07,CUST-039,Jaipur,North,Water Bottle,Lifestyle,3,16.99,0,50.97,Delivered
+ORD-0031,2025-08-15,CUST-060,Delhi,North,Notebook Set,Stationery,4,12.5,10,45.0,Cancelled
+ORD-0068,2025-08-15,CUST-017,Patna,East,Headphones,Electronics,3,89.0,10,240.3,Delivered
+ORD-0102,2025-08-15,CUST-048,Ahmedabad,West,Bluetooth Speaker,Electronics,1,49.99,5,47.49,Delivered
+ORD-0144,2025-08-21,CUST-024,Ahmedabad,West,Water Bottle,Lifestyle,2,16.99,5,32.28,Delivered
+ORD-0148,2025-08-21,CUST-047,Ahmedabad,West,Water Bottle,Lifestyle,2,16.99,5,32.28,Delivered
+ORD-0152,2025-08-21,CUST-051,Chandigarh,North,Laptop Stand,Accessories,2,29.99,5,56.98,Delivered
+ORD-0006,2025-08-24,CUST-056,Jaipur,North,Mechanical Keyboard,Accessories,2,64.99,10,116.98,Delivered
+ORD-0086,2025-08-24,CUST-052,Bengaluru,South,USB-C Hub,Accessories,2,39.5,15,67.15,Delivered
+ORD-0077,2025-08-25,CUST-049,Hyderabad,South,27-inch Monitor,Electronics,1,219.0,0,219.0,Delivered
+ORD-0081,2025-08-27,CUST-050,Pune,West,USB-C Hub,Accessories,2,39.5,15,67.15,Delivered
+ORD-0134,2025-08-27,CUST-038,Ahmedabad,West,Desk Lamp,Home Office,1,24.99,0,24.99,Delivered
+ORD-0052,2025-08-29,CUST-015,Hyderabad,South,Headphones,Electronics,1,89.0,10,80.1,Delivered
+ORD-0120,2025-08-30,CUST-048,Bengaluru,South,Desk Lamp,Home Office,1,24.99,0,24.99,Delivered
+ORD-0125,2025-08-31,CUST-003,Bhubaneswar,East,Notebook Set,Stationery,2,12.5,5,23.75,Delivered
+ORD-0164,2025-08-31,CUST-052,Delhi,North,Mechanical Keyboard,Accessories,1,64.99,0,64.99,Delivered
+ORD-0142,2025-09-04,CUST-049,Ahmedabad,West,Webcam,Electronics,2,79.99,0,159.98,Delivered
+ORD-0123,2025-09-05,CUST-056,Pune,West,Desk Lamp,Home Office,2,24.99,0,49.98,Returned
+ORD-0136,2025-09-05,CUST-019,Delhi,North,Bluetooth Speaker,Electronics,2,49.99,5,94.98,Cancelled
+ORD-0129,2025-09-07,CUST-015,Chandigarh,North,Mechanical Keyboard,Accessories,1,64.99,5,61.74,Delivered
+ORD-0091,2025-09-08,CUST-006,Chennai,South,Headphones,Electronics,2,89.0,5,169.1,Delivered
+ORD-0133,2025-09-12,CUST-058,Hyderabad,South,Headphones,Electronics,2,89.0,0,178.0,Delivered
+ORD-0116,2025-09-13,CUST-057,Kolkata,East,Laptop Stand,Accessories,1,29.99,0,29.99,Delivered
+ORD-0167,2025-09-17,CUST-036,Hyderabad,South,Notebook Set,Stationery,1,12.5,10,11.25,Delivered
+ORD-0038,2025-09-25,CUST-009,Pune,West,Laptop Stand,Accessories,2,29.99,0,59.98,Delivered
+ORD-0096,2025-09-26,CUST-046,Mumbai,West,Laptop Stand,Accessories,1,29.99,0,29.99,Delivered
+ORD-0093,2025-09-29,CUST-020,Pune,West,Water Bottle,Lifestyle,2,16.99,0,33.98,Delivered
+ORD-0097,2025-10-01,CUST-009,Bengaluru,South,Wireless Mouse,Accessories,4,18.99,5,72.16,Delivered
+ORD-0030,2025-10-02,CUST-005,Kolkata,East,Bluetooth Speaker,Electronics,1,49.99,0,49.99,Delivered
+ORD-0057,2025-10-03,CUST-021,Bengaluru,South,Bluetooth Speaker,Electronics,1,49.99,5,47.49,Delivered
+ORD-0087,2025-10-03,CUST-016,Bhubaneswar,East,Bluetooth Speaker,Electronics,2,49.99,5,94.98,Delivered
+ORD-0109,2025-10-04,CUST-039,Bhubaneswar,East,Mechanical Keyboard,Accessories,2,64.99,10,116.98,Delivered
+ORD-0002,2025-10-07,CUST-039,Chandigarh,North,Bluetooth Speaker,Electronics,1,49.99,0,49.99,Delivered
+ORD-0034,2025-10-12,CUST-035,Kolkata,East,Laptop Stand,Accessories,1,29.99,15,25.49,Delivered
+ORD-0178,2025-10-14,CUST-059,Mumbai,West,Bluetooth Speaker,Electronics,3,49.99,0,149.97,Delivered
+ORD-0040,2025-10-16,CUST-057,Delhi,North,Desk Lamp,Home Office,1,24.99,0,24.99,Returned
+ORD-0037,2025-10-19,CUST-037,Chennai,South,Office Chair,Home Office,1,189.0,0,189.0,Delivered
+ORD-0027,2025-10-20,CUST-028,Kolkata,East,Headphones,Electronics,2,89.0,0,178.0,Delivered
+ORD-0073,2025-10-22,CUST-058,Bhubaneswar,East,Wireless Mouse,Accessories,3,18.99,0,56.97,Delivered
+ORD-0061,2025-10-24,CUST-058,Pune,West,Headphones,Electronics,1,89.0,0,89.0,Delivered
+ORD-0014,2025-10-26,CUST-049,Bhubaneswar,East,Laptop Stand,Accessories,4,29.99,0,119.96,Delivered
+ORD-0025,2025-10-29,CUST-005,Chennai,South,Laptop Stand,Accessories,1,29.99,5,28.49,Delivered
+ORD-0090,2025-11-02,CUST-027,Ahmedabad,West,Wireless Mouse,Accessories,1,18.99,0,18.99,Delivered
+ORD-0161,2025-11-02,CUST-055,Pune,West,Desk Lamp,Home Office,2,24.99,0,49.98,Delivered
+ORD-0020,2025-11-03,CUST-052,Pune,West,Wireless Mouse,Accessories,1,18.99,0,18.99,Cancelled
+ORD-0023,2025-11-07,CUST-026,Kolkata,East,Desk Lamp,Home Office,2,24.99,5,47.48,Delivered
+ORD-0056,2025-11-07,CUST-034,Jaipur,North,Office Chair,Home Office,1,189.0,0,189.0,Delivered
+ORD-0138,2025-11-07,CUST-040,Bhubaneswar,East,Laptop Stand,Accessories,2,29.99,0,59.98,Delivered
+ORD-0174,2025-11-07,CUST-008,Bhubaneswar,East,27-inch Monitor,Electronics,1,219.0,5,208.05,Delivered
+ORD-0060,2025-11-12,CUST-051,Pune,West,Desk Lamp,Home Office,3,24.99,0,74.97,Delivered
+ORD-0169,2025-11-15,CUST-045,Chandigarh,North,Notebook Set,Stationery,2,12.5,0,25.0,Delivered
+ORD-0106,2025-11-17,CUST-053,Bengaluru,South,Mechanical Keyboard,Accessories,1,64.99,5,61.74,Returned
+ORD-0046,2025-11-23,CUST-008,Mumbai,West,Water Bottle,Lifestyle,1,16.99,5,16.14,Delivered
+ORD-0098,2025-11-23,CUST-012,Kolkata,East,Wireless Mouse,Accessories,2,18.99,0,37.98,Delivered
+ORD-0001,2025-11-24,CUST-044,Delhi,North,Water Bottle,Lifestyle,1,16.99,0,16.99,Delivered
+ORD-0054,2025-11-25,CUST-017,Patna,East,Desk Lamp,Home Office,1,24.99,0,24.99,Delivered
+ORD-0085,2025-11-28,CUST-041,Mumbai,West,Bluetooth Speaker,Electronics,2,49.99,0,99.98,Cancelled
+ORD-0128,2025-11-29,CUST-046,Jaipur,North,Notebook Set,Stationery,3,12.5,0,37.5,Delivered
+ORD-0042,2025-12-01,CUST-009,Chandigarh,North,Desk Lamp,Home Office,1,24.99,5,23.74,Returned
+ORD-0162,2025-12-02,CUST-026,Bengaluru,South,Headphones,Electronics,3,89.0,0,267.0,Delivered
+ORD-0058,2025-12-06,CUST-045,Chandigarh,North,27-inch Monitor,Electronics,1,219.0,5,208.05,Delivered
+ORD-0166,2025-12-07,CUST-037,Patna,East,Wireless Mouse,Accessories,4,18.99,5,72.16,Delivered
+ORD-0051,2025-12-09,CUST-055,Bengaluru,South,USB-C Hub,Accessories,2,39.5,0,79.0,Delivered
+ORD-0024,2025-12-10,CUST-002,Pune,West,Desk Lamp,Home Office,1,24.99,0,24.99,Delivered
+ORD-0039,2025-12-10,CUST-040,Pune,West,Webcam,Electronics,3,79.99,15,203.97,Delivered
+ORD-0111,2025-12-11,CUST-029,Ahmedabad,West,Wireless Mouse,Accessories,2,18.99,0,37.98,Delivered
+ORD-0075,2025-12-14,CUST-035,Patna,East,USB-C Hub,Accessories,3,39.5,10,106.65,Cancelled
+ORD-0011,2025-12-17,CUST-005,Mumbai,West,Laptop Stand,Accessories,2,29.99,10,53.98,Delivered
+ORD-0100,2025-12-18,CUST-016,Delhi,North,USB-C Hub,Accessories,2,39.5,15,67.15,Delivered
+ORD-0095,2025-12-20,CUST-049,Hyderabad,South,Laptop Stand,Accessories,2,29.99,0,59.98,Delivered
+ORD-0071,2025-12-22,CUST-027,Chennai,South,Laptop Stand,Accessories,1,29.99,0,29.99,Delivered
+ORD-0117,2025-12-24,CUST-011,Kolkata,East,Wireless Mouse,Accessories,4,18.99,5,72.16,Delivered
